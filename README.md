@@ -1,4 +1,4 @@
-Chat app made with scratch
+Sychnorous -Chat app made with scratch
 
 ![image](https://github.com/user-attachments/assets/0f1d8c64-1d34-4270-8cc7-1faf863251bb)
 Main login information
